@@ -18,3 +18,8 @@ Create `assets/brand/`, `assets/work/web/`, `assets/work/products/`, `assets/wor
 
 ## PDF brochure
 Open the deployed site in a browser and choose Print / Save as PDF. Choose A4 and enable background graphics if offered.
+
+## Update log (Oct 2026)
+- Real work pages in `case/`, digital footprint at `footprint.html`, A4 profile PDF `Aarunya-Web-Solutions-Profile.pdf`.
+- Work images in `assets/work/` carry a small corner watermark. Keep original, unmarked files out of this repo.
+- BillZen is owned by Aarunya Web Solutions; client pages must describe customisations as subscription upgrades, never as client-owned software.
